@@ -11,7 +11,7 @@
 
 ## Ecosystem map
 
-[![Peri&Positivas digital ecosystem map](assets/peri-positivas-ecosystem-map.png)](assets/peri-positivas-ecosystem-map.png)
+[![Peri&Positivas digital ecosystem map](assets/peri-positivas-ecosystem-map.jpg)](assets/peri-positivas-ecosystem-map.jpg)
 
 *Visual summary of the Peri&Positivas ecosystem: audience insight, content, SEO/AEO/GEO visibility, digital products, community and responsible AI as a foundation.*
 
