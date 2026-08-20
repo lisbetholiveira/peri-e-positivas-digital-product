@@ -9,6 +9,12 @@
 
 > **Portfolio note:** This repository presents selected strategy, product and AI-workflow thinking behind the project. It intentionally excludes private commercial information, sensitive user data and internal business material.
 
+## Ecosystem map
+
+[![Peri&Positivas digital ecosystem map](assets/peri-positivas-ecosystem-map.png)](assets/peri-positivas-ecosystem-map.png)
+
+*Visual summary of the Peri&Positivas ecosystem: audience insight, content, SEO/AEO/GEO visibility, digital products, community and responsible AI as a foundation.*
+
 ## Project overview
 
 Peri&Positivas is an independent digital initiative designed around a recurring problem: women in midlife often face overlapping changes in health, identity, work, confidence and life direction, while the information available to them is frequently fragmented, generic or overly prescriptive.
