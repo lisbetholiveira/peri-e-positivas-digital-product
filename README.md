@@ -1,6 +1,6 @@
 # Peri&Positivas — AI-Enabled Digital Product & Content Ecosystem
 
-> A portfolio case study on building a digital brand and product ecosystem for women 40+, combining audience research, content strategy, product discovery and responsible use of AI.
+> A portfolio case study on building a digital brand and product ecosystem for women 40+, combining audience research, content strategy, product discovery, multi-channel delivery and responsible use of AI.
 
 **Project:** Peri&Positivas  
 **Role:** Founder / Product & Content Strategy  
@@ -23,7 +23,34 @@ The product challenge is therefore not simply to publish more content. It is to 
 
 **uncertainty → understanding → decision → action**
 
-The project explores how audience research, editorial systems, digital products and responsible AI can work together to support that journey.
+The project is being developed as a **multi-channel digital ecosystem**, connecting audience research, editorial content, owned-audience relationships, interactive tools and responsible AI-assisted workflows.
+
+## Technology & delivery stack
+
+Peri&Positivas is designed to be delivered through a practical combination of established publishing platforms, rapid-prototyping tools and AI-enabled workflows.
+
+| Layer | Platform / approach | Role in the ecosystem |
+|---|---|---|
+| **Website & content hub** | **WordPress** | Main web presence, long-form content, SEO/AEO/GEO publishing and evergreen resource hub |
+| **Newsletter & owned audience** | **Beehiiv** | Subscriber relationship, recurring editorial formats, audience capture and direct distribution |
+| **Interactive tools & prototypes** | **Lovable** | Rapid prototyping of digital tools, guided experiences and product concepts before deeper implementation |
+| **AI-assisted operating layer** | **AI workflows** | Voice-of-Customer synthesis, research structuring, editorial planning, hypothesis generation, repurposing, workflow automation and quality-control support |
+| **Portfolio & technical documentation** | **GitHub** | Public documentation of selected product logic, responsible-AI principles and future technical prototypes |
+
+The objective is not to use technology for its own sake. Each layer has a defined job in the user journey: **discovery, relationship, decision support, delivery or learning**.
+
+## Current build roadmap
+
+The delivery roadmap connects product strategy with an increasingly operational ecosystem:
+
+1. **Audience and product foundation** — define user needs, journey stages, content pillars and product hypotheses.
+2. **WordPress content hub** — build the main searchable website and structured SEO/AEO/GEO content base.
+3. **Beehiiv audience layer** — connect newsletter, subscriber capture and recurring relationship-building formats.
+4. **Lovable product prototypes** — test interactive tools, decision-support experiences and lightweight digital products.
+5. **AI-assisted workflows** — improve research, content operations, repurposing, automation and quality control while preserving human review.
+6. **Feedback and iteration** — use qualitative feedback and user behaviour to refine content, tools and future product decisions.
+
+This roadmap allows the project to move from **strategy → publishing → audience relationship → interactive product → continuous learning** without requiring every component to be built at once.
 
 ## Product strategy
 
@@ -137,11 +164,15 @@ The project is therefore approached as an iterative product-discovery system rat
 ## What this project demonstrates
 
 - Digital product strategy
+- Multi-channel product ecosystem design
 - Audience and Voice-of-Customer research
 - Qualitative research synthesis
 - Product discovery and hypothesis design
 - Customer-journey thinking
 - SEO / AEO / GEO content strategy
+- WordPress-based content delivery planning
+- Beehiiv newsletter and owned-audience strategy
+- Low-code / rapid product prototyping with Lovable
 - Responsible AI application
 - Evidence-aware content design
 - AI-assisted workflow design
@@ -150,7 +181,7 @@ The project is therefore approached as an iterative product-discovery system rat
 
 ## Documentation
 
-- [`docs/product-strategy.md`](docs/product-strategy.md) — product logic and ecosystem design
+- [`docs/product-strategy.md`](docs/product-strategy.md) — product logic, ecosystem design and delivery model
 - [`docs/audience-research.md`](docs/audience-research.md) — qualitative research framework
 - [`docs/content-system.md`](docs/content-system.md) — content as a product and discovery layer
 - [`docs/responsible-ai.md`](docs/responsible-ai.md) — boundaries and AI principles
@@ -159,4 +190,4 @@ The project is therefore approached as an iterative product-discovery system rat
 
 ### About this portfolio project
 
-This repository documents selected strategic and AI-enabled work behind Peri&Positivas. It is designed to demonstrate product thinking and applied AI capability while keeping confidential business material outside the public repository.
+This repository documents selected strategic, product and AI-enabled work behind Peri&Positivas. It is designed to demonstrate how audience insight can be translated into a real multi-channel digital ecosystem while keeping confidential business material outside the public repository.
