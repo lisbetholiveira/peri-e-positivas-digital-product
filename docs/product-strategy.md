@@ -15,6 +15,28 @@ The product ecosystem connects four layers:
 3. **Tools & digital products** — turn insight into practical decision support.
 4. **Guided support & community** — create structured pathways beyond self-serve content.
 
+## Delivery model
+
+The product strategy is designed to translate into a practical multi-channel delivery stack rather than remain only as a content or research framework.
+
+| Delivery layer | Platform / approach | Strategic role |
+|---|---|---|
+| **Website & content hub** | **WordPress** | Searchable home for long-form content, structured resources and SEO/AEO/GEO discovery |
+| **Owned audience** | **Beehiiv** | Newsletter distribution, subscriber capture and recurring relationship-building |
+| **Interactive product layer** | **Lovable** | Rapid prototyping of guided tools, decision-support experiences and lightweight product concepts |
+| **AI-assisted operating layer** | **AI workflows** | Research synthesis, editorial planning, hypothesis generation, repurposing, automation and quality-control support |
+| **Portfolio / technical layer** | **GitHub** | Public documentation of selected frameworks, Responsible AI decisions and future technical prototypes |
+
+The stack is intentionally modular. Each platform supports a different stage of the user journey and can evolve independently without requiring the entire ecosystem to be rebuilt.
+
+## Build sequence
+
+The delivery sequence is designed to move from evidence and discovery toward increasingly interactive experiences:
+
+**Audience insight → WordPress discovery hub → Beehiiv relationship layer → Lovable prototypes → AI-assisted operations → feedback & iteration**
+
+This sequence allows the project to validate audience needs and content pathways before investing in more complex product experiences.
+
 ## Product principles
 
 - Start from a real user question rather than a format.
@@ -23,6 +45,9 @@ The product ecosystem connects four layers:
 - Avoid universal promises for heterogeneous midlife experiences.
 - Treat trust, clarity and usability as product requirements.
 - Use AI to accelerate research and workflow execution without removing human judgment.
+- Choose technology according to the job it performs in the user journey.
+- Prototype before overbuilding.
+- Maintain an owned-audience layer rather than relying only on external platforms.
 
 ## Discovery loop
 
