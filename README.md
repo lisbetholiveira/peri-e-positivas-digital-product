@@ -147,6 +147,14 @@ The project is therefore approached as an iterative product-discovery system rat
 - [docs/content-system.md](docs/content-system.md) — content as a product and discovery layer
 - [docs/responsible-ai.md](docs/responsible-ai.md) — boundaries and AI principles
 
+## PERI OS Coordinator
+
+A fonte da coordenadora canónica do PERI OS está disponível em [skills/peri-os-coordinator/SKILL.md](skills/peri-os-coordinator/SKILL.md).
+
+Esta publicação inclui o ficheiro principal fornecido pela autora. A matriz de encaminhamento, os contratos e as skills especializadas ainda não estão incluídos; por isso, o sistema completo ainda não está disponível para instalação e execução a partir deste repositório.
+
+Consulta a [documentação da coordenadora e das dependências em falta](docs/peri-os-coordinator.md). A especificação fornecida para a coordenadora atribui a subscrição e newsletter a Systeme.io; os documentos de portfólio anteriores mantêm o seu contexto de elaboração.
+
 ---
 
 ### About this portfolio project
